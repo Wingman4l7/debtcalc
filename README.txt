@@ -1,11 +1,11 @@
-[align=center]I present to you the
+[align=center][i]I present to you the[/i]
 [b]What.CD Debt Calculator[/b].
+Displays remaining upload credit required if required ratio is not met.
 https://github.com/Wingman4l7/badhost
 
 [img]https://whatimg.com/i/yvxvqi.png[/img]
 
 [img]https://whatimg.com/i/ua1e9f.png[/img][/align]
-
 
 This script has two parts.  
 The first part inserts your upload "debt" [i](if you have any)[/i] next to your current ratio.  [i](the first screenshot)[/i]
