@@ -1,9 +1,9 @@
 [align=center][i]I present to you the[/i]
 [b]What.CD Debt Calculator[/b].
 Displays remaining upload credit required if required ratio is not met.
-https://github.com/Wingman4l7/badhost
+https://github.com/Wingman4l7/debtcalc
 
-[img]https://whatimg.com/i/yvxvqi.png[/img]
+[img]https://whatimg.com/i/thng4s.png[/img]
 
 [img]https://whatimg.com/i/ua1e9f.png[/img][/align]
 
