@@ -1,4 +1,4 @@
-<p align="center"><h1>What.CD Bad Covers Collage Edition</h1></p>
+<h1 align="center">What.CD Bad Covers Collage Edition</h1>
 
 <p align="center"><b>Highlights all album covers in a collage not on a whitelisted host.</b></p>
 
