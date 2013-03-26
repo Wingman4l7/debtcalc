@@ -1,5 +1,5 @@
-What.CD Bad Covers Collage Edition
-==================================
+<p align="center"><h1>What.CD Bad Covers Collage Edition</h1></p>
+
 <p align="center"><b>Highlights all album covers in a collage not on a whitelisted host.</b></p>
 
 <p align="center">
