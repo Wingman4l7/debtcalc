@@ -36,6 +36,4 @@ Donations
 ---------
 Like this script?  You can send Bitcoin donations to: `1F7kfMNUNQy8e52RHnQAWYXeaYfzFqHJAZ`
 
-*Quick reference:* $1 USD is currently: <img src="http://btcticker.appspot.com/mtgox/1.00usd.png">
-
 Alternatively, you can use [Gittip](https://www.gittip.com/Wingman4l7/).
