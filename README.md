@@ -1,6 +1,6 @@
-<h1 align="center">What.CD Bad Covers Collage Edition</h1>
+<h1 align="center">What.CD Debt Calculator</h1>
 
-<p align="center"><b>Highlights all album covers in a collage not on a whitelisted host.</b></p>
+<p align="center"><b>Displays remaining upload credit required if required ratio is not met..</b></p>
 
 <p align="center">
   <img src="https://raw.github.com/Wingman4l7/debtcalc/master/debtcalc_my.png" alt="account screenshot"/>
