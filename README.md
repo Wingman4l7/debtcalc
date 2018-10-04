@@ -31,9 +31,3 @@ Discuss the script [here] [1]; for a 1-click install, find it on UserScripts [he
 
   [1]: https://what.cd/forums.php?action=viewthread&threadid=171416
   [2]: http://userscripts-mirror.org/scripts/show/162954
-
-Donations
----------
-Like this script?  You can send Bitcoin donations to: `1F7kfMNUNQy8e52RHnQAWYXeaYfzFqHJAZ`
-
-Alternatively, you can use [Gittip](https://www.gittip.com/Wingman4l7/).
